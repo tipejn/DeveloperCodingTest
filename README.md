@@ -118,6 +118,9 @@ GET /api/Story?count=5
 
 6. **Testing**:
    - Add comprehensive unit tests, integration tests, and load tests.
+  
+7. **Rate Limiting**:
+   - Implement rate limiting to prevent abuse of the API.
 
 ---
 
