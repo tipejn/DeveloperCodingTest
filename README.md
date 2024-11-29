@@ -1,7 +1,7 @@
 
 # Hacker News Best Stories API
 
-This project is a RESTful API that fetches the top `n` stories from Hacker News, sorted by their score. It integrates with the Hacker News API and employs caching for performance optimization.
+This REST API project fetches the top `n` stories from Hacker News, sorted by their score. It integrates with the Hacker News API and employs caching for performance optimization.
 
 ---
 
@@ -91,7 +91,7 @@ GET /api/Story?count=5
    - Assumes the external Hacker News API is available and returns consistent responses.
 
 2. **Caching**:
-   - In-memory caching is used for better performance. In a distributed environment, a distributed cache (e.g., Redis) would be more appropriate.
+   - In-memory caching is used for better performance. A distributed cache (e.g., Redis) would be more appropriate in a distributed environment.
 
 3. **Default Story Count**:
    - If the `count` parameter is not provided, the API defaults to returning the top 10 stories.
@@ -127,6 +127,5 @@ GET /api/Story?count=5
 - **MediatR**: For implementing CQRS patterns.
 - **Swagger**: For API documentation.
 - **Microsoft.Extensions.Caching.Memory**: For caching.
-- **System.Text.Json**: For JSON serialization/deserialization.
 
 
