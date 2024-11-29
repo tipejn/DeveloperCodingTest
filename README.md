@@ -110,8 +110,8 @@ GET /api/Story?count=5
 3. **Persistent Storage**:
    - Introduce a database to store frequently accessed stories.
 
-4. **Rate Limiting**:
-   - Implement rate limiting to prevent abuse of the API.
+4. **Resiliency**:
+   - Introduce resiliency patterns like retries, circuit breakers, and timeouts using eg. Polly. This will help the application gracefully handle transient faults and maintain stability during external API failures.
 
 5. **Telemetry and Logging**:
    - Integrate with logging systems like Serilog and telemetry platforms like Application Insights.
