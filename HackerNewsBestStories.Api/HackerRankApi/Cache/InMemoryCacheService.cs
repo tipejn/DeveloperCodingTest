@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Caching.Memory;
 
-namespace DeveloperCodingTest.HackerRankApi.Cache;
+namespace HackerNewsBestStories.Api.HackerRankApi.Cache;
 
 public class InMemoryCacheService(IMemoryCache cache) : ICacheService
 {

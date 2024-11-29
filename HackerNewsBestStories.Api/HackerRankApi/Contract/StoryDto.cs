@@ -1,4 +1,4 @@
-﻿namespace DeveloperCodingTest.HackerRankApi.Contract;
+﻿namespace HackerNewsBestStories.Api.HackerRankApi.Contract;
 
 public record StoryDto(
     string Title,

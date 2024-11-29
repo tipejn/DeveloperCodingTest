@@ -1,4 +1,4 @@
-﻿namespace DeveloperCodingTest.HackerRankApi.Cache;
+﻿namespace HackerNewsBestStories.Api.HackerRankApi.Cache;
 
 public class CacheSettings
 {

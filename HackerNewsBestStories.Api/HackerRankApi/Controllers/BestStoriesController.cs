@@ -1,9 +1,9 @@
-﻿using DeveloperCodingTest.HackerRankApi.Contract;
-using DeveloperCodingTest.HackerRankApi.Services;
+﻿using HackerNewsBestStories.Api.HackerRankApi.Contract;
+using HackerNewsBestStories.Api.HackerRankApi.Services;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DeveloperCodingTest.HackerRankApi.Controllers;
+namespace HackerNewsBestStories.Api.HackerRankApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -1,6 +1,6 @@
 ﻿using Refit;
 
-namespace DeveloperCodingTest.HackerRankApi.Integration;
+namespace HackerNewsBestStories.Api.HackerRankApi.Integration;
 
 public interface IHackerNewsApi
 {

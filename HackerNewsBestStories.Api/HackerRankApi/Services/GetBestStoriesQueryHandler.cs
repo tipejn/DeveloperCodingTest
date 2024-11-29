@@ -1,10 +1,10 @@
-﻿using DeveloperCodingTest.HackerRankApi.Cache;
-using DeveloperCodingTest.HackerRankApi.Contract;
-using DeveloperCodingTest.HackerRankApi.Integration;
+﻿using HackerNewsBestStories.Api.HackerRankApi.Cache;
+using HackerNewsBestStories.Api.HackerRankApi.Contract;
+using HackerNewsBestStories.Api.HackerRankApi.Integration;
 using MediatR;
 using Microsoft.Extensions.Options;
 
-namespace DeveloperCodingTest.HackerRankApi.Services;
+namespace HackerNewsBestStories.Api.HackerRankApi.Services;
 
 public class GetBestStoriesQueryHandler(
     ICacheManager cacheManager,

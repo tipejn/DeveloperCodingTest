@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperCodingTest", "DeveloperCodingTest\DeveloperCodingTest.csproj", "{FA7637F9-A718-43DE-B118-2AAF147413DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNewsBestStories.Api", "HackerNewsBestStories.Api\HackerNewsBestStories.Api.csproj", "{FA7637F9-A718-43DE-B118-2AAF147413DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

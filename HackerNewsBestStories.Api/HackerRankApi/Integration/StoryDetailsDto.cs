@@ -1,4 +1,4 @@
-﻿namespace DeveloperCodingTest.HackerRankApi.Integration;
+﻿namespace HackerNewsBestStories.Api.HackerRankApi.Integration;
 
 public record StoryDetailsDto(
     string By,

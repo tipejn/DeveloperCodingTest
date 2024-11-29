@@ -1,7 +1,7 @@
-﻿using DeveloperCodingTest.HackerRankApi.Cache;
-using DeveloperCodingTest.HackerRankApi.Contract;
+﻿using HackerNewsBestStories.Api.HackerRankApi.Cache;
+using HackerNewsBestStories.Api.HackerRankApi.Contract;
 
-namespace DeveloperCodingTest.HackerRankApi.Services;
+namespace HackerNewsBestStories.Api.HackerRankApi.Services;
 
 public class CacheManager(ICacheService cacheService) : ICacheManager
 {

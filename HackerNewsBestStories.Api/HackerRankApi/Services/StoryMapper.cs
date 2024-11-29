@@ -1,7 +1,7 @@
-﻿using DeveloperCodingTest.HackerRankApi.Contract;
-using DeveloperCodingTest.HackerRankApi.Integration;
+﻿using HackerNewsBestStories.Api.HackerRankApi.Contract;
+using HackerNewsBestStories.Api.HackerRankApi.Integration;
 
-namespace DeveloperCodingTest.HackerRankApi.Services;
+namespace HackerNewsBestStories.Api.HackerRankApi.Services;
 
 public static class StoryMapper
 {

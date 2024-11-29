@@ -1,6 +1,6 @@
-﻿using DeveloperCodingTest.HackerRankApi.Contract;
+﻿using HackerNewsBestStories.Api.HackerRankApi.Contract;
 
-namespace DeveloperCodingTest.HackerRankApi.Services;
+namespace HackerNewsBestStories.Api.HackerRankApi.Services;
 
 public interface ICacheManager
 {

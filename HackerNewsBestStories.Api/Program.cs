@@ -1,6 +1,6 @@
-using DeveloperCodingTest.HackerRankApi.Cache;
-using DeveloperCodingTest.HackerRankApi.Integration;
-using DeveloperCodingTest.HackerRankApi.Services;
+using HackerNewsBestStories.Api.HackerRankApi.Cache;
+using HackerNewsBestStories.Api.HackerRankApi.Integration;
+using HackerNewsBestStories.Api.HackerRankApi.Services;
 using Refit;
 
 var builder = WebApplication.CreateBuilder(args);

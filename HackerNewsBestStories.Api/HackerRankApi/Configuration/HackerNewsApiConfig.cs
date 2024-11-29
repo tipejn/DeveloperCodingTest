@@ -1,4 +1,4 @@
-﻿namespace DeveloperCodingTest.HackerRankApi.Configuration;
+﻿namespace HackerNewsBestStories.Api.HackerRankApi.Configuration;
 
 public class HackerNewsApiConfig
 {
