@@ -1,6 +1,6 @@
 @DeveloperCodingTest_HostAddress = http://localhost:5202
 
-GET {{DeveloperCodingTest_HostAddress}}/weatherforecast/
+GET {{DeveloperCodingTest_HostAddress}}/api/Story
 Accept: application/json
 
 ###
