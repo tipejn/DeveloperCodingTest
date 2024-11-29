@@ -25,8 +25,9 @@ This project is a RESTful API that fetches the top `n` stories from Hacker News,
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/tipejn/DeveloperCodingTest.git
-cd DeveloperCodingTest
+git clone https://github.com/tipejn/HackerNewsBestStories.git
+cd HackerNewsBestStories
+cd HackerNewsBestStories.Api
 ```
 
 ### Restore Dependencies
